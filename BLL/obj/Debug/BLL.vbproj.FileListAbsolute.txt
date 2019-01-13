@@ -1,0 +1,17 @@
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\BLL.dll
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\BLL.pdb
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\BLL.xml
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\DAL.dll
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\LayerEntity.dll
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\DAL.pdb
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\DAL.xml
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\LayerEntity.pdb
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\bin\Debug\LayerEntity.xml
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.vbproj.CopyComplete
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.dll
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.xml
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\BLL\obj\Debug\BLL.pdb

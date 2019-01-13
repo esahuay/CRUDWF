@@ -1,0 +1,45 @@
+create table Clientes(
+ID_Cliente int,
+NOMBRE_C nvarchar (100),
+SEXO nchar (1),
+EDAD int,
+OBSERVACIONES nvarchar(100)
+);
+
+create procedure SP_INSERTAR_CLIENTE 
+@ID_CLIENTE INTEGER, 
+@NOMBRE_C varchar(100),
+@SEXO NCHAR(1),
+@EDAD INTEGER,
+@OBSERVACIONES NVARCHAR(100)
+as
+begin 
+insert Clientes (ID_Cliente, NOMBRE_C, SEXO, EDAD , OBSERVACIONES) 
+values (@ID_CLIENTE, @NOMBRE_C, @SEXO, @EDAD, @OBSERVACIONES)
+end;
+
+create procedure SP_MODIFICAR_CLIENTE
+@ID_CLIENTE INTEGER, 
+@NOMBRE_C varchar(100),
+@SEXO NCHAR(1),
+@EDAD INTEGER,
+@OBSERVACIONES NVARCHAR(100)
+as
+begin 
+update Clientes set NOMBRE_C = @NOMBRE_C, SEXO = @SEXO, EDAD = @EDAD, OBSERVACIONES=@OBSERVACIONES 
+where ID_Cliente = @ID_CLIENTE
+end;
+
+create procedure SP_BUSCAR_CLIENTE
+@ID_CLIENTE INTEGER
+as
+begin
+select NOMBRE_C, SEXO, EDAD, OBSERVACIONES from Clientes where ID_Cliente = @ID_CLIENTE
+end;
+
+create procedure SP_ELIMINAR_CLIENTE
+@ID_CLIENTE INTEGER
+as
+begin
+DELETE FROM CLIENTES WHERE ID_Cliente = @ID_CLIENTE
+END;

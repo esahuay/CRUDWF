@@ -1,0 +1,10 @@
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\bin\Debug\LayerEntity.dll
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\bin\Debug\LayerEntity.pdb
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\bin\Debug\LayerEntity.xml
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\obj\Debug\LayerEntity.vbprojAssemblyReference.cache
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\obj\Debug\LayerEntity.Resources.resources
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\obj\Debug\LayerEntity.vbproj.GenerateResource.cache
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\obj\Debug\LayerEntity.vbproj.CoreCompileInputs.cache
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\obj\Debug\LayerEntity.dll
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\obj\Debug\LayerEntity.xml
+C:\Users\cheo\source\repos\ASP.NET\VB.NET\CRUDWF\LayerEntity\obj\Debug\LayerEntity.pdb
